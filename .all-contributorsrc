@@ -1,0 +1,89 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "verstaerker-583",
+      "name": "verstaerker-583",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/40574338?v=4",
+      "profile": "https://github.com/verstaerker-583",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "crazy4groovy",
+      "name": "crazy4groovy",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1110812?v=4",
+      "profile": "http://crazy4groovy.blogspot.ca",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "isctylr",
+      "name": "Isaac Taylor",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24595776?v=4",
+      "profile": "https://github.com/isctylr",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    },
+    {
+      "login": "darthclide",
+      "name": "darthclide",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46735828?v=4",
+      "profile": "https://github.com/darthclide",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "rodrigograca31",
+      "name": "Rodrigo Graça",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1134310?v=4",
+      "profile": "https://blog.rodrigograca.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "feitosa-daniel",
+      "name": "Daniel Feitosa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1847734?v=4",
+      "profile": "https://github.com/feitosa-daniel",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Arunscape",
+      "name": "Arun Woosaree",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8227297?v=4",
+      "profile": "http://linkedin.com/in/arun-woosaree",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "avil13",
+      "name": "Aleksey Pivkin",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1606172?v=4",
+      "profile": "https://avil13.com",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "obs-web",
+  "projectOwner": "Niek",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
